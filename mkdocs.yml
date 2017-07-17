@@ -8,6 +8,8 @@ extra:
     primary: 'deep purple'
     accent: 'purple'
 
+google_analytics: ['UA-102723231-2', 'auto']
+
 pages:
 - Home: index.md
 - Lexicons-*:
