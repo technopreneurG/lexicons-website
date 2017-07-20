@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "", 
+            "text": "Lexicon\n\nA lexicon is the vocabulary of a person, language, or branch of knowledge (such as nautical or medical). In linguistics, a lexicon is a language's inventory of lexemes. The word \"lexicon\" derives from the Greek \u03bb\u03b5\u03be\u03b9\u03ba\u03cc\u03bd (lexicon), neuter of \u03bb\u03b5\u03be\u03b9\u03ba\u03cc\u03c2 (lexikos) meaning \"of or for words.\"\n\n\nfuther reading:\n\nhttps://en.wikipedia.org/wiki/Lexicon\n\n\nInspiration:\n\n\n\n\nLong long ago there used to be a Y!Lexicon page on Yahoo! interanets, it was very useful for new hires to get introduced to various terminologies used inside Yahoo!.\n\n\nThe \nawesome lists\n, a great way of organising knowledge.\n\n\n\n\nList of Lexicons:\n\n\n\n\nComputational linguistics\n\n\nArtificial neural networks\n\n\nCloud Computing", 
             "title": "Home"
         }, 
         {
             "location": "/lexicon-artificial-neural-networks/", 
-            "text": "Lexicon\n\n\nANN\n\n\n(Artificial neural networks)\n\n\n\n\nArtificial neural networks are computational models inspired by biological neural networks, and are used to approximate functions that are generally unknown. Particularly, they are inspired by the behaviour of neurons and the electrical signals they convey between input (such as from the eyes or nerve endings in the hand), processing, and output from the brain (such as reacting to light, touch, or heat).\n\n\nhttps://en.wikipedia.org/wiki/Artificial_neural_network\n\n\n\n\nFeedforward neural network\n\n\n\n\nIn this network the information moves in only one direction\u2014forward: From the input nodes data goes through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network. Feedforward networks can be constructed from different types of units, e.g. binary McCulloch-Pitts neurons, the simplest example being the perceptron. Continuous neurons, frequently with sigmoidal activation, are used in the context of backpropagation of error.\n\n\nhttps://en.wikipedia.org/wiki/Feedforward_neural_network", 
+            "text": "ANN\n\n\n(Artificial neural networks)\n\n\n\n\nArtificial neural networks are computational models inspired by biological neural networks, and are used to approximate functions that are generally unknown. Particularly, they are inspired by the behaviour of neurons and the electrical signals they convey between input (such as from the eyes or nerve endings in the hand), processing, and output from the brain (such as reacting to light, touch, or heat).\n\n\nhttps://en.wikipedia.org/wiki/Artificial_neural_network\n\n\n\n\nFeedforward neural network\n\n\n\n\nIn this network the information moves in only one direction\u2014forward: From the input nodes data goes through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network. Feedforward networks can be constructed from different types of units, e.g. binary McCulloch-Pitts neurons, the simplest example being the perceptron. Continuous neurons, frequently with sigmoidal activation, are used in the context of backpropagation of error.\n\n\nhttps://en.wikipedia.org/wiki/Feedforward_neural_network\n\n\n\n\n\n\n\n\n\n\nLexicon Repository", 
             "title": "Artificial Neural Networks"
         }, 
         {
@@ -17,12 +17,12 @@
         }, 
         {
             "location": "/lexicon-artificial-neural-networks/#feedforward-neural-network", 
-            "text": "In this network the information moves in only one direction\u2014forward: From the input nodes data goes through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network. Feedforward networks can be constructed from different types of units, e.g. binary McCulloch-Pitts neurons, the simplest example being the perceptron. Continuous neurons, frequently with sigmoidal activation, are used in the context of backpropagation of error.  https://en.wikipedia.org/wiki/Feedforward_neural_network", 
+            "text": "In this network the information moves in only one direction\u2014forward: From the input nodes data goes through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network. Feedforward networks can be constructed from different types of units, e.g. binary McCulloch-Pitts neurons, the simplest example being the perceptron. Continuous neurons, frequently with sigmoidal activation, are used in the context of backpropagation of error.  https://en.wikipedia.org/wiki/Feedforward_neural_network      Lexicon Repository", 
             "title": "Feedforward neural network"
         }, 
         {
             "location": "/lexicon-computational-linguistics/", 
-            "text": "NLP\n\n\n(Natural language processing)\n\n\n\n\nNatural language processing (NLP) is a field of computer science, artificial intelligence and computational linguistics concerned with the interactions between computers and human (natural) languages, and, in particular, concerned with programming computers to fruitfully process large natural language corpora.\n\n\nhttps://en.wikipedia.org/wiki/Natural_language_processing\n\n\n\n\nNLP\n\n\n(Natural language programming)\n\n\n\n\nNatural Language Programming (NLP) is an ontology-assisted way of programming in terms of natural language sentences, e.g. English. A structured document with Content, sections and subsections for explanations of sentences forms a NLP document, which is actually a computer program.\n\n\nhttps://en.wikipedia.org/wiki/Natural_language_programming", 
+            "text": "NLP\n\n\n(Natural language processing)\n\n\n\n\nNatural language processing (NLP) is a field of computer science, artificial intelligence and computational linguistics concerned with the interactions between computers and human (natural) languages, and, in particular, concerned with programming computers to fruitfully process large natural language corpora.\n\n\nhttps://en.wikipedia.org/wiki/Natural_language_processing\n\n\n\n\nNLP\n\n\n(Natural language programming)\n\n\n\n\nNatural Language Programming (NLP) is an ontology-assisted way of programming in terms of natural language sentences, e.g. English. A structured document with Content, sections and subsections for explanations of sentences forms a NLP document, which is actually a computer program.\n\n\nhttps://en.wikipedia.org/wiki/Natural_language_programming\n\n\n\n\n\n\n\n\n\n\nLexicon Repository", 
             "title": "Computational Linguistics"
         }, 
         {
@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/lexicon-computational-linguistics/#nlp_1", 
-            "text": "(Natural language programming)   Natural Language Programming (NLP) is an ontology-assisted way of programming in terms of natural language sentences, e.g. English. A structured document with Content, sections and subsections for explanations of sentences forms a NLP document, which is actually a computer program.  https://en.wikipedia.org/wiki/Natural_language_programming", 
+            "text": "(Natural language programming)   Natural Language Programming (NLP) is an ontology-assisted way of programming in terms of natural language sentences, e.g. English. A structured document with Content, sections and subsections for explanations of sentences forms a NLP document, which is actually a computer program.  https://en.wikipedia.org/wiki/Natural_language_programming      Lexicon Repository", 
             "title": "NLP"
         }
     ]
