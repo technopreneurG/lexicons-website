@@ -1,3 +1,4 @@
+
 ##**NLP**
 
 *(Natural language processing)*
@@ -12,3 +13,8 @@
 * Natural Language Programming (NLP) is an ontology-assisted way of programming in terms of natural language sentences, e.g. English. A structured document with Content, sections and subsections for explanations of sentences forms a NLP document, which is actually a computer program.
 * <https://en.wikipedia.org/wiki/Natural_language_programming>
 
+
+</br>
+</br>
+</br>
+[Lexicon Repository](https://github.com/technopreneurG/lexicon)

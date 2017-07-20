@@ -8,6 +8,7 @@ extra:
     primary: 'deep purple'
     accent: 'purple'
 
+dev_addr: '0.0.0.0:8000'
 google_analytics: ['UA-102723231-2', 'auto']
 
 pages:
