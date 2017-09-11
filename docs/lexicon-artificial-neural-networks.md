@@ -10,8 +10,14 @@
 * In this network the information moves in only one direction—forward: From the input nodes data goes through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network. Feedforward networks can be constructed from different types of units, e.g. binary McCulloch-Pitts neurons, the simplest example being the perceptron. Continuous neurons, frequently with sigmoidal activation, are used in the context of backpropagation of error.
 * <https://en.wikipedia.org/wiki/Feedforward_neural_network>
 
+## **Stochastic gradient descent**
+
+* Stochastic gradient descent (often shortened in SGD), also known as incremental gradient descent, is a stochastic approximation of the gradient descent optimization method for minimizing an objective function that is written as a sum of differentiable functions. In other words, SGD tries to find minima or maxima by iteration.
+* <https://en.wikipedia.org/wiki/Stochastic_gradient_descent>
+* Tags: Algorithms, Computational Statistics
 
 </br>
 </br>
 </br>
+
 [Lexicon Repository](https://github.com/technopreneurG/lexicon)
