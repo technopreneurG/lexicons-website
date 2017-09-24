@@ -16,6 +16,13 @@
 * <https://en.wikipedia.org/wiki/Stochastic_gradient_descent>
 * Tags: Algorithms, Computational Statistics
 
+## **Perceptron**
+
+* Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory, a perceptron is the simplest neural network possible: a computational model of a single neuron. A perceptron consists of one or more inputs, a processor, and a single output.
+A perceptron follows the "feed-forward" model, meaning inputs are sent into the neuron, are processed, and result in an output.
+* <http://natureofcode.com/book/chapter-10-neural-networks/>
+* Tags: Classification Algorithms, Machine Learning, Artificial Neural Networks
+
 </br>
 </br>
 </br>
