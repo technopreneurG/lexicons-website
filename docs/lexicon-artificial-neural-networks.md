@@ -1,3 +1,9 @@
+---
+title: Artificial Neural Networks
+summary: Lexicons for Artificial Neural Networks
+maintainers:
+  - Girish
+---
 
 
 
@@ -9,6 +15,16 @@
 * <https://en.wikipedia.org/wiki/Artificial_neural_network>
 
 
+
+
+## **BP**
+*(Backpropagation)*
+
+* Backpropagation is a method used in artificial neural networks to calculate a gradient that is needed in the calculation of the weights to be used in the network. Backpropagation is shorthand for "the backward propagation of errors," since an error is computed at the output and distributed backwards throughout the network’s layers. It is commonly used to train deep neural networks.
+
+* <https://en.wikipedia.org/wiki/Backpropagation>
+
+* Tags: Algorithms, Artificial Neural Networks
 
 
 ## **Feedforward neural network**
