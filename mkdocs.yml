@@ -17,6 +17,7 @@ markdown_extensions:
 pages:
 - Home: index.md
 - Lexicons-*:
+    - lexicon-aws.md
     - lexicon-artificial-neural-networks.md
-    - lexicon-computational-linguistics.md
     - lexicon-cloud-computing.md
+    - lexicon-computational-linguistics.md
