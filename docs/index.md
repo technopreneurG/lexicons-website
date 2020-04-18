@@ -13,6 +13,7 @@ Inspiration:
 
 List of Lexicons:
 
- * [Computational linguistics](lexicon-computational-linguistics/)
  * [Artificial neural networks](lexicon-artificial-neural-networks/)
+ * [Amazon Web Services(AWS)](lexicon-aws/)
  * [Cloud Computing](lexicon-cloud-computing/)
+ * [Computational linguistics](lexicon-computational-linguistics/)
