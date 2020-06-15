@@ -17,3 +17,4 @@ List of Lexicons:
  * [Amazon Web Services(AWS)](lexicon-aws/)
  * [Cloud Computing](lexicon-cloud-computing/)
  * [Computational linguistics](lexicon-computational-linguistics/)
+ * [Information Security](lexicon-information-security/)
